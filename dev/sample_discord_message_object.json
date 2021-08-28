@@ -1,0 +1,24 @@
+//values have been altered
+{
+	"channelID": "32972468888552964",
+	"deleted": false,
+	"id": "881651656251615521361162",
+	"type": "DEFAULT",
+	"system": false,
+	"content": "string of message from discord",
+	"authorID": "5162365166150656132",
+	"pinned": false,
+	"tts": false,
+	"nonce": "6152316129812911",
+	"embeds": [],
+	"attachments": [],
+	"createdTimestamp": 1630178952,
+	"editedTimestamp": 0,
+	"webhookID": null,
+	"applicationID": null,
+	"activity": null,
+	"flags": 0,
+	"reference": null,
+	"guildID": "32975612536116154678490322",
+	"cleanContent": "string of discord message sent"
+}

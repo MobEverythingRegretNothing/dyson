@@ -1,0 +1,24 @@
+//values have been altered
+
+{
+  "Records": [
+    {
+      "EventSource": "aws:sns",
+      "EventVersion": "1.0",
+      "EventSubscriptionArn": "arn:aws:sns:us-east-2:467222377375:dyson-play-audio:8fbz5yaf-5d3a-4kl9-8mod-fffbf7f29ff6",
+      "Sns": {
+        "Type": "Notification",
+        "MessageId": "18f3405e-7298-5880-ag11-ds3a0c0069b0",
+        "TopicArn": "arn:aws:sns:us-east-2:467222377375:dyson-sns-topic",
+        "Subject": null,
+        "Message": "{\"channelID\":\"329754188801297604\",\"deleted\":false,\"id\":\"881229938478406072\",\"type\":\"DEFAULT\",\"system\":false,\"content\":\"yt\",\"authorID\":\"329753568418235888\",\"pinned\":false,\"tts\":false,\"nonce\":\"881229944894418496\",\"embeds\":[],\"attachments\":[],\"createdTimestamp\":163017194059,\"editedTimestamp\":0,\"webhookID\":null,\"applicationID\":null,\"activity\":null,\"flags\":0,\"reference\":null,\"guildID\":\"329754177804678490322\",\"cleanContent\":\"string of discord message sent\"}",
+        "Timestamp": "2021-08-28T17:33:12.428Z",
+        "SignatureVersion": "1",
+        "Signature": "h6GRj+wGGdiL3rum4R8Roaksjdfaasliaa99spK7arA7Qs+iNz1A2P87DQSK9hLGXcLBWFQGYPm/lI0+afXVCJ5p1BXkW/1e++KWmAy+D9PsP8apjRUXrKGOajUWMKm+tYGGrclBFB7pJ3O2KDf6RGkKmFlKAhzMuq43SNj9NQ/OQv5OgyeDlYATePVUZfunasnjkkjdsa7Q/GaOsb8Emfv5VLpvsu9FGMf9vZb2AdI17BLj5IrpLA89rGJ6yvajVghWKMFYRN4eARLGNBHOyZeiVDfmeSHQFkabQ+UkgYANVwYysgt8hRNS/Oc3NxxjcTopsD6vxjTatA==",
+        "SigningCertUrl": "https://sns.us-east-2.amazonaws.com/SimpleNotificationService-010a507c1833636cd95da26a5s6c55c65b98bd93083a.pem",
+        "UnsubscribeUrl": "https://sns.us-east-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-2:467221656241236265641e5212345:dyson-play-audio:57acaeaf-sb3d-4d89-8a7d-6a29ff6",
+        "MessageAttributes": {}
+      }
+    }
+  ]
+}
